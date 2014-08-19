@@ -2,7 +2,6 @@
 
 from sys import argv as arg
 import urllib2 as urllib
-import requests
 import json
 
 # Submit url to wayback machine
