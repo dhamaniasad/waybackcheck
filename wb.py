@@ -1,3 +1,4 @@
+#!/usr/bin/python
 # Import libraries
 
 from sys import argv as arg
